@@ -4,7 +4,7 @@ body, html{
     color: #242424;
     font-size: 16px;
     font-weight: 400;
-    font-family: sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
@@ -94,4 +94,24 @@ section.module.parallax h1{
     font-size: 78px;
     z-index: 50;
     text-transform: uppercase;
+}
+
+#The-dark{
+    color: black;
+}
+
+#The-life{
+    color: yellow;
+}
+
+#The-espace{
+    color:beige;
+}
+
+#Life{
+    color: yellowgreen;
+}
+
+#Space{
+    color: aqua;
 }
